@@ -7,9 +7,7 @@
 ### 2020
 
 ## Lista de Exercicios
-##### [EXERCICIO 03](https://github.com/DedeApenas/infosatc-lp-avaliativo-02/blob/master/Exercicio03.py)
-##### [EXERCICIO 04](https://github.com/DedeApenas/infosatc-lp-avaliativo-02/blob/master/Exercicio04.py)
-##### [EXERCICIO 05](https://github.com/DedeApenas/infosatc-lp-avaliativo-02/blob/master/Exercicio05.py)
-##### [EXERCICIO 06](https://github.com/DedeApenas/infosatc-lp-avaliativo-02/blob/master/Exercicio06.py)
-##### [EXERCICIO 07](https://github.com/DedeApenas/infosatc-lp-avaliativo-02/blob/master/Exercicio07.py)
-##### [EXERCICIO 08](https://github.com/DedeApenas/infosatc-lp-avaliativo-02/blob/master/Exercicio08.py)
+##### [EXERCICIO 03](https://github.com/DedeApenas/infosatc-lp-avaliativo-03/blob/master/Exercicio03.py)
+##### [EXERCICIO 04](https://github.com/DedeApenas/infosatc-lp-avaliativo-03/blob/master/Exercicio04.py)
+##### [EXERCICIO 05](https://github.com/DedeApenas/infosatc-lp-avaliativo-03/blob/master/Exercicio05.py)
+##### [EXERCICIO 06](https://github.com/DedeApenas/infosatc-lp-avaliativo-03/blob/master/Exercicio06.py)
